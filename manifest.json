@@ -13,10 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/scanner",
+  "start_url": "/dine-on-time/scanner",
   "background_color": "#1a3666",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/dine-on-time",
   "theme_color": "#1a3666"
-} 
-  
+}
